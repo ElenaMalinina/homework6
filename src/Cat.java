@@ -3,6 +3,6 @@ public class Cat extends Animal {
         super("Муся", runAnimalMax, 0);
     }
     public void canSwim (int swimLength) {
-        System.out.println("Кошка не умеет плавать!");
+        System.out.println("Кошка Муся не умеет плавать!");
     }
 }
